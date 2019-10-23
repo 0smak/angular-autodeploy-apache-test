@@ -4,7 +4,8 @@
   "description": "it should work  . .",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "cd web; ng serve",
+    "build": "cd web; ng build"
   },
   "repository": {
     "type": "git",
